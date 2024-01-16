@@ -1,0 +1,23 @@
+body {
+    background-image: url(./img/background.jpg);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: repeat-x;
+}
+
+.container {
+    text-align: left;
+}
+
+#timer {
+    font-size: 48px;
+    color: #0c0c0c; 
+}
+button {
+    background-color: #2ecc71; 
+    color: #fff; 
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
